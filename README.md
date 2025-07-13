@@ -20,18 +20,3 @@ S5,C,55,60,58,60
 S6,C,75,80,85,90
 ```
 
-## 🔧 Install Dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-## ▶️ Run the App
-
-```bash
-streamlit run subject_dashboard.py
-```
-
-## 🌐 Deploy Online
-
-Push this repo to GitHub and deploy on [Streamlit Cloud](https://streamlit.io/cloud)
