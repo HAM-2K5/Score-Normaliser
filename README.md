@@ -19,4 +19,5 @@ S4,B,90,88,92,70
 S5,C,55,60,58,60
 S6,C,75,80,85,90
 ```
-
+## Hosting
+  [click here](https://score-normaliser.streamlit.app/)
